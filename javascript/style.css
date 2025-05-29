@@ -1,0 +1,15 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+h1{
+    color: blueviolet;
+    font-style: italic;
+    text-transform: uppercase;
+    font-size: 4rem;
+
+}
+p{
+    font-size: 2rem;
+    font-weight: 200;
+}
